@@ -187,10 +187,16 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - pages/blog.md
+  - pages/teaching.md
+  - pages/repositories.md
+  - pages/cv.md
+  - pages/dropdown.md
   - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
+  
 keep_files:
   - CNAME
   - .nojekyll
