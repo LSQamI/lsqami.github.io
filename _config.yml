@@ -191,6 +191,8 @@ exclude:
   - readme_preview/
   - vendor
   - _includes/repository/ 
+  - _includes/cv/ 
+  - _includes/resume/
   
 keep_files:
   - CNAME
