@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
+        },{id: "nav-positions",
+          title: "positions",
+          description: "Information for perspective PhD students, postdocs, engineers, technician or intern students",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/positions/";
+          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
