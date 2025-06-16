@@ -183,6 +183,8 @@ exclude:
   - pages/teaching.md
   - pages/repositories.md
   - pages/cv.md
+  - assets/json/resume.json
+  - _data/cv.yml 
   - pages/dropdown.md
   - purgecss.config.js
   - README.md
